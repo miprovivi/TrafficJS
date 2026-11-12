@@ -1,0 +1,14 @@
+
+[
+      {
+        "id": "1",
+        "Name": "test1",
+        "Type": "All",
+        "Title": true,
+        "Delai": "Random",
+        "DelaiTime": [100, 3000],
+        "SpeedMultiplier": 1,
+        "width": "FULL"
+        
+      }
+    ]

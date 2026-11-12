@@ -1,0 +1,37 @@
+[
+      {
+        "id": "0",
+        "Name": "CAF Urbos 3 - Naolib (Nantes)",
+        "File": "/data/trafficData/NAO_CU3.webp",
+        "Speed": 80,
+        "Type": "Tram"
+      },
+      {
+        "id": "1",
+        "Name": "Iveco Urbanway 18 GNV - IDFM",
+        "File": "/data/trafficData/IDF_U18G.webp",
+        "Speed": 85,
+        "Type": "Bus"
+      },
+      {
+        "id": "2",
+        "Name": "MI84 - RATP",
+        "File": "/data/trafficData/RTP_MI84.webp",
+        "Speed": 140,
+        "Type": "RER"
+      },
+      {
+        "id": "3",
+        "Name": " MP14 - RATP",
+        "File": "/data/trafficData/RTP_MP14.webp",
+        "Speed": 100,
+        "Type": "Metro"
+      },
+      {
+        "id": "4",
+        "Name": "TGV Duplex - InOui",
+        "File": "/data/trafficData/INO_DUP.webp",
+        "Speed": 320,
+        "Type": "Train"
+      }
+    ]
